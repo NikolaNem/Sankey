@@ -1,0 +1,5 @@
+dash
+pandas
+plotly
+gspread
+oauth2client
